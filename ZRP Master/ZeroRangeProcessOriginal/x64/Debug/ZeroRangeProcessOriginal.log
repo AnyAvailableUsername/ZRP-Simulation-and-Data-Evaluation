@@ -1,0 +1,72 @@
+﻿  Field.cpp
+  FileReader.cpp
+  FileReader.h
+  FileWriter.cpp
+  LuckyWheel.cpp
+  RandomNumberGenerator.cpp
+C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\RandomNumberGenerator.cpp(9,22): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+  SimulationData.cpp
+  Source.cpp
+C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(148,35): warning C4244: 'argument': conversion from '_Rep' to 'double', possible loss of data
+C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(148,35): warning C4244:         with
+C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(148,35): warning C4244:         [
+C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(148,35): warning C4244:             _Rep=__int64
+C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(148,35): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+      C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(148,35):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Source.cpp(29,38):
+          see reference to class template instantiation 'Simulation<4,4>' being compiled
+          C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(112,17):
+          while compiling class template member function 'void Simulation<4,4>::Run(const int *)'
+              C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Source.cpp(29,41):
+              see the first reference to 'Simulation<4,4>::Run' in 'allSims'
+  
+  Generating Code...
+x64\Debug\FileReader.obj : warning LNK4042: object specified more than once; extras ignored
+gsl.lib(rng.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(rng.obj)' or at ''; linking object as if no debug info
+gsl.lib(default.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(default.obj)' or at ''; linking object as if no debug info
+gsl.lib(inline.c.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(inline.c.obj)' or at ''; linking object as if no debug info
+gsl.lib(mt.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(mt.obj)' or at ''; linking object as if no debug info
+gsl.lib(error.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(error.obj)' or at ''; linking object as if no debug info
+gsl.lib(types.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(types.obj)' or at ''; linking object as if no debug info
+gsl.lib(stream.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(stream.obj)' or at ''; linking object as if no debug info
+gsl.lib(borosh13.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(borosh13.obj)' or at ''; linking object as if no debug info
+gsl.lib(coveyou.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(coveyou.obj)' or at ''; linking object as if no debug info
+gsl.lib(cmrg.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(cmrg.obj)' or at ''; linking object as if no debug info
+gsl.lib(fishman18.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(fishman18.obj)' or at ''; linking object as if no debug info
+gsl.lib(fishman20.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(fishman20.obj)' or at ''; linking object as if no debug info
+gsl.lib(fishman2x.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(fishman2x.obj)' or at ''; linking object as if no debug info
+gsl.lib(gfsr4.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(gfsr4.obj)' or at ''; linking object as if no debug info
+gsl.lib(knuthran.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(knuthran.obj)' or at ''; linking object as if no debug info
+gsl.lib(knuthran2.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(knuthran2.obj)' or at ''; linking object as if no debug info
+gsl.lib(knuthran2002.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(knuthran2002.obj)' or at ''; linking object as if no debug info
+gsl.lib(lecuyer21.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(lecuyer21.obj)' or at ''; linking object as if no debug info
+gsl.lib(minstd.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(minstd.obj)' or at ''; linking object as if no debug info
+gsl.lib(mrg.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(mrg.obj)' or at ''; linking object as if no debug info
+gsl.lib(r250.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(r250.obj)' or at ''; linking object as if no debug info
+gsl.lib(ran0.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ran0.obj)' or at ''; linking object as if no debug info
+gsl.lib(ran1.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ran1.obj)' or at ''; linking object as if no debug info
+gsl.lib(ran2.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ran2.obj)' or at ''; linking object as if no debug info
+gsl.lib(ran3.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ran3.obj)' or at ''; linking object as if no debug info
+gsl.lib(rand.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(rand.obj)' or at ''; linking object as if no debug info
+gsl.lib(rand48.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(rand48.obj)' or at ''; linking object as if no debug info
+gsl.lib(random.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(random.obj)' or at ''; linking object as if no debug info
+gsl.lib(randu.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(randu.obj)' or at ''; linking object as if no debug info
+gsl.lib(ranf.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ranf.obj)' or at ''; linking object as if no debug info
+gsl.lib(ranlux.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ranlux.obj)' or at ''; linking object as if no debug info
+gsl.lib(ranlxd.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ranlxd.obj)' or at ''; linking object as if no debug info
+gsl.lib(ranlxs.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ranlxs.obj)' or at ''; linking object as if no debug info
+gsl.lib(ranmar.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(ranmar.obj)' or at ''; linking object as if no debug info
+gsl.lib(slatec.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(slatec.obj)' or at ''; linking object as if no debug info
+gsl.lib(taus.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(taus.obj)' or at ''; linking object as if no debug info
+gsl.lib(taus113.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(taus113.obj)' or at ''; linking object as if no debug info
+gsl.lib(transputer.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(transputer.obj)' or at ''; linking object as if no debug info
+gsl.lib(tt.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(tt.obj)' or at ''; linking object as if no debug info
+gsl.lib(uni.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(uni.obj)' or at ''; linking object as if no debug info
+gsl.lib(uni32.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(uni32.obj)' or at ''; linking object as if no debug info
+gsl.lib(vax.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(vax.obj)' or at ''; linking object as if no debug info
+gsl.lib(waterman14.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(waterman14.obj)' or at ''; linking object as if no debug info
+gsl.lib(zuf.obj) : warning LNK4099: PDB '' was not found with 'gsl.lib(zuf.obj)' or at ''; linking object as if no debug info
+     Creating library C:\Users\Joshua\Source\Repos\ZRP Master\x64\Debug\ZeroRangeProcessOriginal.lib and object C:\Users\Joshua\Source\Repos\ZRP Master\x64\Debug\ZeroRangeProcessOriginal.exp
+  ZeroRangeProcessOriginal.vcxproj -> C:\Users\Joshua\Source\Repos\ZRP Master\x64\Debug\ZeroRangeProcessOriginal.exe

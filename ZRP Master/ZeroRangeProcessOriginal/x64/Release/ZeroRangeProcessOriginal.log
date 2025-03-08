@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9002: ignoring unknown option '/O3'
+  Field.cpp
+  Source.cpp
+C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Source.cpp(128,3): error C2146: syntax error: missing ';' before identifier 'runFromSource'

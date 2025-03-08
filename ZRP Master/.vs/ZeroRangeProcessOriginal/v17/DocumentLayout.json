@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Field.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Simulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\LuckyWheel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\LuckyWheel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\RandomNumberGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 754,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Source.cpp",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T09:09:49.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65d61de1-c41c-4504-8c3d-c97027b25ca8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Field.cpp",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Field.cpp",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\Field.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T14:19:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Field.h",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Field.h",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\Field.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T09:09:49.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simulation.h",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Simulation.h",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\Simulation.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T09:09:49.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileReader.h",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\FileReader.h",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\FileReader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T14:24:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LuckyWheel.h",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\LuckyWheel.h",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\LuckyWheel.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T09:09:49.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LuckyWheel.cpp",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\LuckyWheel.cpp",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\LuckyWheel.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T09:09:49.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileReader.cpp",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\FileReader.cpp",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\FileReader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T14:26:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RandomNumberGenerator.h",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T09:09:49.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileWriter.h",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\FileWriter.h",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\FileWriter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T09:13:59.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileWriter.cpp",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\FileWriter.cpp",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\FileWriter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T09:16:20.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RandomNumberGenerator.cpp",
+              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
+              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T09:09:49.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

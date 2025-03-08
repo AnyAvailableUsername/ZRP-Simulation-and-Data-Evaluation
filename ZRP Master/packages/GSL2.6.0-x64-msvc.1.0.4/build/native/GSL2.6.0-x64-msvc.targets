@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" InitialTargets="GSL2_6_0-x64-msvc_init">
+  <PropertyGroup Label="Default initializers for properties">
+    <Linkage-GSL2_6_0-x64-msvc Condition="'$(Linkage-GSL2_6_0-x64-msvc)' == ''">dynamic</Linkage-GSL2_6_0-x64-msvc>
+    <CallingConvention-GSL2_6_0-x64-msvc Condition="'$(CallingConvention-GSL2_6_0-x64-msvc)' == ''">cdecl</CallingConvention-GSL2_6_0-x64-msvc>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MSBuildThisFileDirectory)../..//build/native/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ResourceCompile>
+      <AdditionalIncludeDirectories>$(MSBuildThisFileDirectory)../..//build/native/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Label="x64 and Debug" Condition="'$(Platform.ToLower())' == 'x64' And ( $(Configuration.ToLower().IndexOf('debug')) &gt; -1 )">
+    <Link>
+      <AdditionalDependencies>$(MSBuildThisFileDirectory)../..//build/native/lib/x64\Debug\gslcblas.lib;$(MSBuildThisFileDirectory)../..//build/native/lib/x64\Debug\gsl.lib;$(MSBuildThisFileDirectory)../..//build/native/lib/x64\Debug\amplgsl.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Label="x64 and Release" Condition="'$(Platform.ToLower())' == 'x64' And ( $(Configuration.ToLower().IndexOf('debug')) == -1 )">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MSBuildThisFileDirectory)../..//build/native/include/x64\Release;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ResourceCompile>
+      <AdditionalIncludeDirectories>$(MSBuildThisFileDirectory)../..//build/native/include/x64\Release;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>$(MSBuildThisFileDirectory)../..//build/native/lib/x64\Release\gslcblas.lib;$(MSBuildThisFileDirectory)../..//build/native/lib/x64\Release\gsl.lib;$(MSBuildThisFileDirectory)../..//build/native/lib/x64\Release\amplgsl.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <PropertyPageSchema Include="$(MSBuildThisFileDirectory)\default-propertiesui.xml" />
+  </ItemGroup>
+  <UsingTask TaskName="GSL2_6_0-x64-msvc_Contains" AssemblyFile="$(MSBuildToolsPath)\Microsoft.Build.Tasks.v4.0.dll" TaskFactory="CodeTaskFactory">
+    <ParameterGroup>
+      <Text Output="false" ParameterType="System.String" />
+      <Library Output="false" Required="true" ParameterType="System.String" />
+      <Value Output="false" Required="true" ParameterType="System.String" />
+      <Result Output="true" ParameterType="System.String" />
+    </ParameterGroup>
+    <Task>
+      <Code>Result = ((Text ?? "").Split(';').Contains(Library) ) ? Value : String.Empty;</Code>
+    </Task>
+  </UsingTask>
+  <Target Name="GSL2_6_0-x64-msvc_init">
+    <GSL2_6_0-x64-msvc_Contains Text="Linkage-dynamic" Library="GSL2_6_0-x64-msvc" Value="dynamic" Condition="'$(Linkage-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="Linkage-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+    <GSL2_6_0-x64-msvc_Contains Text="Linkage-static" Library="GSL2_6_0-x64-msvc" Value="static" Condition="'$(Linkage-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="Linkage-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+    <GSL2_6_0-x64-msvc_Contains Text="Linkage-ltcg" Library="GSL2_6_0-x64-msvc" Value="ltcg" Condition="'$(Linkage-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="Linkage-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+    <GSL2_6_0-x64-msvc_Contains Text="Linkage-sxs" Library="GSL2_6_0-x64-msvc" Value="sxs" Condition="'$(Linkage-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="Linkage-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+    <GSL2_6_0-x64-msvc_Contains Text="CallingConvention-cdecl" Library="GSL2_6_0-x64-msvc" Value="cdecl" Condition="'$(CallingConvention-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="CallingConvention-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+    <GSL2_6_0-x64-msvc_Contains Text="CallingConvention-stdcall" Library="GSL2_6_0-x64-msvc" Value="stdcall" Condition="'$(CallingConvention-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="CallingConvention-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+    <GSL2_6_0-x64-msvc_Contains Text="CallingConvention-fastcall" Library="GSL2_6_0-x64-msvc" Value="fastcall" Condition="'$(CallingConvention-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="CallingConvention-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+    <GSL2_6_0-x64-msvc_Contains Text="CallingConvention-thiscall" Library="GSL2_6_0-x64-msvc" Value="thiscall" Condition="'$(CallingConvention-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="CallingConvention-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+    <GSL2_6_0-x64-msvc_Contains Text="CallingConvention-clrcall" Library="GSL2_6_0-x64-msvc" Value="clrcall" Condition="'$(CallingConvention-GSL2_6_0-x64-msvc)'==''">
+      <Output TaskParameter="Result" PropertyName="CallingConvention-GSL2_6_0-x64-msvc" />
+    </GSL2_6_0-x64-msvc_Contains>
+  </Target>
+</Project>

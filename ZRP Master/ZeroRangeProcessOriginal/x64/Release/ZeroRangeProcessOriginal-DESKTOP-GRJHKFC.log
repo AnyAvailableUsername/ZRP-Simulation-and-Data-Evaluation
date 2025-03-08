@@ -1,0 +1,12 @@
+﻿cl : command line warning D9002: ignoring unknown option '/O3'
+  Field.cpp
+  LuckyWheel.cpp
+  RandomNumberGenerator.cpp
+  Simulation.cpp
+  Source.cpp
+     Creating library C:\Users\Joshua\OneDrive - student.uni-augsburg.de\Uni\9. Semester\ZeroRangeProcessOriginal\x64\Release\ZeroRangeProcessOriginal.lib and object C:\Users\Joshua\OneDrive - student.uni-augsburg.de\Uni\9. Semester\ZeroRangeProcessOriginal\x64\Release\ZeroRangeProcessOriginal.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 928 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ZeroRangeProcessOriginal.vcxproj -> C:\Users\Joshua\OneDrive - student.uni-augsburg.de\Uni\9. Semester\ZeroRangeProcessOriginal\x64\Release\ZeroRangeProcessOriginal.exe
