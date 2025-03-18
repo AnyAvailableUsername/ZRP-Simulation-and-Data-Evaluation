@@ -1,4 +1,25 @@
 ﻿cl : command line  warning D9002: ignoring unknown option '/O3'
-  Field.cpp
   Source.cpp
-C:\Users\Joshua\Source\Repos\ZRP Master\ZeroRangeProcessOriginal\Source.cpp(128,3): error C2146: syntax error: missing ';' before identifier 'runFromSource'
+D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(151,35): warning C4244: 'argument': conversion from '_Rep' to 'double', possible loss of data
+D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(151,35): warning C4244:         with
+D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(151,35): warning C4244:         [
+D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(151,35): warning C4244:             _Rep=__int64
+D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(151,35): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+      D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(151,35):
+      the template instantiation context (the oldest one first) is
+          D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Source.cpp(87,34):
+          see reference to class template instantiation 'Simulation<2,2>' being compiled
+          D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Simulation.h(115,17):
+          while compiling class template member function 'void Simulation<2,2>::Run(const int *)'
+              D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\ZeroRangeProcessOriginal\Source.cpp(87,37):
+              see the first reference to 'Simulation<2,2>::Run' in 'main'
+  
+x64\Release\FileReader.obj : warning LNK4042: object specified more than once; extras ignored
+     Creating library D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\x64\Release\ZeroRangeProcessOriginal.lib and object D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\x64\Release\ZeroRangeProcessOriginal.exp
+  Generating code
+  17 of 1013 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ZeroRangeProcessOriginal.vcxproj -> D:\OneDrive - student.uni-augsburg.de\Uni\master\Code\ZRP Master\x64\Release\ZeroRangeProcessOriginal.exe

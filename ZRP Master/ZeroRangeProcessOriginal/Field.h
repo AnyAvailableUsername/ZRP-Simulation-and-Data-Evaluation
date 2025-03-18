@@ -23,6 +23,7 @@ private:
 	int ParticleCount;
 	double Degree;
 	double Theta;
+	double Gamma;
 	LuckyWheel* _LuckyWheel;
 	RandomNumberGenerator* _RandomNumberGenerator;
 	int* Lattice;
@@ -40,6 +41,7 @@ public:
 		int particleCount,
 		double degree,
 		double theta,
+		double gamma,
 		double completionTime,
 		Initialisation initialisation,
 		RandomNumberGenerator* randomNumberGenerator);

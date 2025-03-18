@@ -35,11 +35,12 @@ void allSims(const int* source = nullptr) {
 
 void runFromSource() {
 	std::stringstream filename;
-	filename << "D:/OneDrive - student.uni-augsburg.de/Uni/master/simulation output/random_start/";
+	filename << "D:/OneDrive - student.uni-augsburg.de/Uni/master/simulation output/";
 	filename << "L" << SimulationParams::LatticeSize << " ";
 	filename << "N" << SimulationParams::ParticleCount << " ";
 	filename << "k" << SimulationParams::Degree << " ";
 	filename << "theta" << SimulationParams::Theta << " ";
+	filename << "gamma" << SimulationParams::Gamma << " ";
 	filename << "T10000N";
 	filename << ".txt";
 	int* source = new int[SimulationParams::LatticeSize * 16];
@@ -48,8 +49,46 @@ void runFromSource() {
 }
 
 int main() {
+	constexpr int simCount = 2;
 
-	allSims();
+	SimulationParams::LatticeSize = 256;
+	SimulationParams::ParticleCount = 4 * SimulationParams::LatticeSize;
+	SimulationParams::Runtime = 10000 * SimulationParams::ParticleCount;
+	SimulationParams::Theta = 1;
+
+	SimulationParams::Degree = -2;
+	SimulationParams::Gamma = SimulationParams::Degree + 2;
+	//Simulation<simCount, simCount>::Run();
+
+	SimulationParams::Degree = -1;
+	SimulationParams::Gamma = SimulationParams::Degree + 2;
+	//Simulation<simCount, simCount>::Run();
+
+
+	SimulationParams::Degree = 0;
+	SimulationParams::Gamma = SimulationParams::Degree + 2;
+	Simulation<simCount, 8>::Run();
+
+
+	SimulationParams::Degree = 1;
+	SimulationParams::Gamma = SimulationParams::Degree + 2;
+	Simulation<simCount, 8>::Run();
+
+
+	SimulationParams::Degree = -1.5;
+	SimulationParams::Gamma = 0;
+	Simulation<simCount, 8>::Run();
+
+	SimulationParams::Gamma = SimulationParams::Degree + 2;
+	Simulation<simCount, 8>::Run();
+
+
+	SimulationParams::Gamma = SimulationParams::Degree + 3;
+	Simulation<simCount, simCount>::Run();
+
+
+
+	//allSims();
 
   return 0;
 }

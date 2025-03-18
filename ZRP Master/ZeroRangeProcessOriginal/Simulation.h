@@ -13,6 +13,7 @@ public:
   static int LatticeSize;
   static double Theta;
   static double Degree;
+  static double Gamma;
   static int Runtime;
   static Field::Initialisation Init;
 };
@@ -21,6 +22,7 @@ int SimulationParams::ParticleCount = 256;
 int SimulationParams::LatticeSize = 256;
 double SimulationParams::Theta = 1.0;
 double SimulationParams::Degree = 1.0;
+double SimulationParams::Gamma = 1.0;
 int SimulationParams::Runtime = 10000 * SimulationParams::ParticleCount;
 Field::Initialisation SimulationParams::Init = Field::Initialisation::AtZero;
 
@@ -60,6 +62,7 @@ template <
         SimulationParams::ParticleCount,
         SimulationParams::Degree,
         SimulationParams::Theta,
+        SimulationParams::Gamma,
         (double)(SimulationParams::Runtime),
         SimulationParams::Init,
         randomNumberGenerator);
@@ -88,8 +91,10 @@ template <
       if (SimulationParams::Theta == 0.0) // for large n 2^(-n-1) is computationally 0
         return 2;
 
-      auto w_n = pow(2, -n - 1) + (SimulationParams::Theta / SimulationParams::LatticeSize) * pow(n + 1, SimulationParams::Degree);
-      auto w_n_minus_1 = pow(2, -n) + (SimulationParams::Theta / SimulationParams::LatticeSize) * pow(n, SimulationParams::Degree);
+      //auto w_n = pow(2, -n - 1) + (SimulationParams::Theta / SimulationParams::LatticeSize) * pow(n + 1, SimulationParams::Degree);
+      //auto w_n_minus_1 = pow(2, -n) + (SimulationParams::Theta / SimulationParams::LatticeSize) * pow(n, SimulationParams::Degree);
+      auto w_n = pow(2, -n - 1) + (SimulationParams::Theta / pow(SimulationParams::LatticeSize, SimulationParams::Gamma)) * pow(n + 1, SimulationParams::Degree);
+      auto w_n_minus_1 = pow(2, -n) + (SimulationParams::Theta / pow(SimulationParams::LatticeSize, SimulationParams::Gamma)) * pow(n, SimulationParams::Degree);
 
       return w_n_minus_1 / w_n;
     }

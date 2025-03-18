@@ -7,6 +7,7 @@ Field::Field(
   int particleCount,
   double degree,
   double theta,
+  double gamma,
   double completionTime,
   Initialisation initialisation,
   RandomNumberGenerator *randomNumberGenerator)
@@ -17,6 +18,7 @@ Field::Field(
   ParticleCount = particleCount;
   Degree = degree;
   Theta = theta;
+  Gamma = gamma;
 
   RateLookupTable = rateLookupTable;
   _RandomNumberGenerator = randomNumberGenerator;
@@ -125,6 +127,7 @@ auto Field::Description() const -> std::string {
   filename << "N" << ParticleCount << " ";
   filename << "k" << Degree << " ";
   filename << "theta" << Theta << " ";
+  filename << "gamma" << Gamma << " ";
   filename << "T" << CompletionTime / ParticleCount << "N";
   if (_Initialisation == Initialisation::AtZero)
     filename << "_S0";

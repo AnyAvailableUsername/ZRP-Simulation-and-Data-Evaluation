@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\",
+  "WorkspaceRootPath": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Field.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Simulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\LuckyWheel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\LuckyWheel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\Simulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\RandomNumberGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\LuckyWheel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\LuckyWheel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\FileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\RandomNumberGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32372CA6-2E67-4490-B442-096BDF302C92}|ZeroRangeProcessOriginal\\ZeroRangeProcessOriginal.vcxproj|solutionrelative:ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -64,11 +64,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Source.cpp",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Source.cpp",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-12T09:09:49.405Z",
               "IsPinned": true,
@@ -98,58 +98,61 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Field.cpp",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Field.cpp",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Field.cpp",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\Field.cpp",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAH0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-05T14:19:56.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Field.h",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h",
-              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Field.h",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h",
-              "RelativeToolTip": "ZeroRangeProcessOriginal\\Field.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-12T09:09:49.406Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Simulation.h",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h",
-              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Simulation.h",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h",
-              "RelativeToolTip": "ZeroRangeProcessOriginal\\Simulation.h",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAARAAAAAAAAAA==",
+              "Title": "Field.h",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Field.h",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Field.h",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\Field.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-12T09:09:49.404Z"
+              "WhenOpened": "2024-09-12T09:09:49.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "Simulation.h",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h",
+              "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\Simulation.h",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\Simulation.h",
+              "RelativeToolTip": "ZeroRangeProcessOriginal\\Simulation.h",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T09:09:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FileReader.h",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\FileReader.h",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.h",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\FileReader.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-31T14:24:30.66Z"
+              "WhenOpened": "2024-10-31T14:24:30.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "LuckyWheel.h",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\LuckyWheel.h",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.h",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\LuckyWheel.h",
               "ViewState": "AgIAAAIAAAAAAAAAAAAEwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -157,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "LuckyWheel.cpp",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\LuckyWheel.cpp",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\LuckyWheel.cpp",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\LuckyWheel.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -169,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "FileReader.cpp",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\FileReader.cpp",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileReader.cpp",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\FileReader.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -181,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RandomNumberGenerator.h",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\RandomNumberGenerator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -193,35 +196,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "FileWriter.h",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\FileWriter.h",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.h",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\FileWriter.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-12T09:13:59.56Z"
+              "WhenOpened": "2024-09-12T09:13:59.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "FileWriter.cpp",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\FileWriter.cpp",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\FileWriter.cpp",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\FileWriter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-12T09:16:20.594Z"
+              "WhenOpened": "2024-09-12T09:16:20.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "RandomNumberGenerator.cpp",
-              "DocumentMoniker": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
+              "DocumentMoniker": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
               "RelativeDocumentMoniker": "ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
-              "ToolTip": "C:\\Users\\Joshua\\Source\\Repos\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
+              "ToolTip": "D:\\OneDrive - student.uni-augsburg.de\\Uni\\master\\Code\\ZRP Master\\ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
               "RelativeToolTip": "ZeroRangeProcessOriginal\\RandomNumberGenerator.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
